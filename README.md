@@ -12,7 +12,7 @@ This repository aims to provide an overview of common data structures (like arra
 
 ## Structure 📁
 The repository is organized as follows:
-
+```
 /Data_structures
     ├── linked_list
     │   ├── circular_linked_list.py
@@ -29,3 +29,4 @@ The repository is organized as follows:
         ├── avl_tree.py
         ├── binary_search_tree.py
         └── binary_tree.py
+```
